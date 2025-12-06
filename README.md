@@ -1,26 +1,26 @@
-[![MasterHead](https://user-images.githubusercontent.com/7403[8190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/7403[8190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Dipali Chandele</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
 
 
 
 
-- 🔭 I’m currently working on **Nayaan, an AI companion designed to help visually impaired and blind people.**
+- 🔭 I’m currently working on **full-stack development using Vue.js, Node.js & MongoDB, building scalable and impactful web applications.**
 
-- 🌱 I’m currently learning **avaScript frameworks, Vue.js, Node.js, and Express.js through various courses and resources.**
+- 🌱 I’m currently learning **Cloud technologies, CI/CD pipelines, Docker, and Java Spring Boot framework to strengthen backend and deployment skills.**
 
-- 👯 I’m looking to collaborate on **on technologies like Vue.js, Node.js, Express.js, Vuetify, and MongoDB.**
+- 👯 I’m looking to collaborate on **Full-stack web projects, React applications, and backend services using Spring Boot or Node.js.**
 
-- 🤝 I’m looking for help with **project guidance, coding best practices, and improving the user experience for visually impaired users.**
+- 🤝 I’m looking for help with **expanding career opportunities and connecting with professionals in the software development ecosystem.**
 
-- 💬 Ask me about **oftware development, AI applications for accessibility, and career guidance in tech.**
+- 💬 Ask me about **Frontend development with React, JavaScript best practices, backend integration, and how to start or grow in software development.**
 
 - 📫 How to reach me **dipalichandele1@gmail.com**
 
-- ⚡ Fun fact **I'm a software developer and a multitalented person with skills in singing, dancing, painting, coding, and fitness!**
+- ⚡ Fun fact **I’m a developer by passion, but also a singer, dancer & fitness enthusiast who loves turning creativity into code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
