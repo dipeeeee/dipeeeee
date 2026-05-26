@@ -10,7 +10,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║              🚀  CI / CD  PIPELINE  FLOW  🚀             ║
 ╠══════════════════════════════════════════════════════════╣
-║  CODE  ──▶  BUILD  ──▶  TEST  ──▶  DEPLOY  ──▶  MONITOR ║
+║  CODE  ──▶  BUILD  ──▶  TEST  ──▶  DEPLOY  ──▶  MONITOR  ║
 ║   Git       Docker      Jest      Kubernetes   Grafana   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -167,8 +167,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipeeeee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipeeeee" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipeeeee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dipeeeee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipeeeee&show_icons=true&locale=en&theme=tokyonight" alt="dipeeeee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeeeee&theme=tokyonight" alt="dipeeeee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeeeee&theme=tokyonight" alt="dipeeeee" /></p> -->
